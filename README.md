@@ -75,4 +75,5 @@ This project involves building a comprehensive Garage Management System using Sa
     Reports and dashboards empower stakeholders to track and improve service performance metrics.
 
 Project Impact
+
 This Garage Management System demonstrates how Salesforce tools like flows, sharing settings, Apex triggers, reports, and dashboards can be leveraged to automate processes, enhance data insights, and improve customer relationships. The system ensures scalability, efficient data management, and optimized operational workflows, making it a valuable solution for garage services.
